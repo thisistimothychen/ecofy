@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Auto_Open()
     Dim oToolbar As CommandBar
     Dim oButton As CommandBarButton
@@ -30,18 +29,22 @@ Sub Auto_Open()
          .DescriptionText = "Optimize presentation for printing"
           'Tooltip text when mouse if placed over button
 
-         .Caption = "Do Button1 Stuff"
+         .Caption = "Ecofy"
          'Text if Text in Icon is chosen
 
          .OnAction = "Ecofy"
           'Runs the Sub Button1() code when clicked
 
-         .Style = msoButtonIcon
-          ' Button displays as icon, not text or both
+         ' .Style = msoButtonIcon
+         ' Button displays as icon, not text or both
+         .Style = msoButtonIconAndCaptionBelow
+         
 
-         .FaceId = 52
-          ' chooses icon #52 from the available Office icons
-
+         .FaceId = 2083
+         ' chooses icon #610 from the available Office icons
+         ' #1741 is globe on stand
+         ' #2083 is another globe
+          
     End With
 
     ' Repeat the above for as many more buttons as you need to add
