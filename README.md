@@ -27,3 +27,7 @@ PowerPoint Add-In/Macro to optimize a presentation for printing
 # Usage
 
 Click on the Add-Ins tab on the ribbon and then click the "Ecofy" button
+
+
+# Example Results
+![Before](/Examples/Example.png)
