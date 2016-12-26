@@ -1,7 +1,8 @@
 # Ecofy
 
 PowerPoint Add-In/Macro to optimize a presentation for printing
-
+- Foreground color of fillable objects changed to white
+- Text changed to black
 
 # Set Up
 
