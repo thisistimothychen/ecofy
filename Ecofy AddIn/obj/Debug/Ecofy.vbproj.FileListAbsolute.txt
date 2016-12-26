@@ -1,0 +1,13 @@
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Ecofy.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Ecofy.pdb
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Ecofy.xml
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Ecofy.dll.manifest
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Ecofy.vsto
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\Ecofy.vbproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\Ecofy.dll
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\Ecofy.xml
+C:\Users\Tim\Documents\Visual Studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\Ecofy.pdb

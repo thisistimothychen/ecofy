@@ -1,0 +1,13 @@
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.xml
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Resources.resources
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.vbproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.xml
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+c:\users\tim\documents\visual studio 2013\Projects\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
